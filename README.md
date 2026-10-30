@@ -18,4 +18,4 @@ A statistical comparison of Momentum and Mean Reversion strategies across stable
 
 ### Let's Connect
 
-[Connect with me on LinkedIn](www.linkedin.com/in/elenamirkovic)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/elena-mirkovic/)
