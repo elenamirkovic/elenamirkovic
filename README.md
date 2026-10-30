@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Elena!
 
-<!--
-**elenamirkovic/elenamirkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics student at the **University of Belgrade**, specializing in **Statistics, Actuarial and Financial Mathematics**.
 
-Here are some ideas to get you started:
+I'm particularly interested in the intersection of mathematics, data science, and finance, and in using statistical methods to understand real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Currently learning:** Python, Data Science & Machine Learning
+- **Working with:** R, C, Java, SQL (basic)
+- **Interested in:** Statistical Modeling, Financial Markets & Quantitative Analysis
+
+### Featured Project
+
+**[Testing Investment Strategies in Financial Markets](https://github.com/elenamirkovic/investment-strategies-statistical-analysis)**
+
+A statistical comparison of Momentum and Mean Reversion strategies across stable and volatile financial markets, using R, financial time-series analysis, and hypothesis testing.
+
+*Academic project developed with Mila Milenić.*
+
+### Let's Connect
+
+[Connect with me on LinkedIn](www.linkedin.com/in/elenamirkovic)
